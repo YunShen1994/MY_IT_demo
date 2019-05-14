@@ -26,3 +26,4 @@ print(sale_dis)
 #任务三 推算全国2018年全国零售百强电商销售额
 sales = [int(x * 1.4 )  for   x     in  sale]
 print(sales)
+print()

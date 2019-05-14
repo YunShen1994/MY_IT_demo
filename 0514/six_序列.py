@@ -67,3 +67,4 @@ print("序列",num,"的最小数：",min(num))
         reversed()：反向序列中的元素
         enumerate()：将序列组合为索引序列，多在for循环中
 '''
+print()
