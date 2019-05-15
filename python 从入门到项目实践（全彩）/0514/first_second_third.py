@@ -93,3 +93,5 @@ print()
 str_demo = input("请输入一个字符：")
 print()
 print(str_demo,"的ASCII对应状态为：",ord(str_demo))
+
+
