@@ -58,3 +58,6 @@ third_num = input("输入第三个数字：")
 sum_num = int(first_num)+int(second_num)+int(third_num)
 print(sum_num)
 #print(sum_nu)
+
+
+
