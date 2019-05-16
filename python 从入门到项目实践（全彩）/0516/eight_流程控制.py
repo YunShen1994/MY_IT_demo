@@ -88,5 +88,4 @@ else:
          play = 13 * 2 + speed_over * 3
 #
 print('您好，乘客，您的里程为：',speed,'公里,','实际计费为：',play,'元')
-#print(play)
 print("祝您旅途愉快，谢谢惠顾！")
