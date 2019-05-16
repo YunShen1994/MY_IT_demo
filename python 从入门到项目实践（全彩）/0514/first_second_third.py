@@ -4,6 +4,10 @@
 #文件名称 ：first_second_third.py
 #开发工具 ：PyCharm
 
+#第一章：
+import keyword
+print(keyword.kwlist)
+
 #第二章
 
 #任务一
